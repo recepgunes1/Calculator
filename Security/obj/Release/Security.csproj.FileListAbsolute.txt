@@ -1,0 +1,6 @@
+D:\source\repos\Calculator\Security\bin\Release\Security.dll
+D:\source\repos\Calculator\Security\bin\Release\Security.pdb
+D:\source\repos\Calculator\Security\obj\Release\Security.csprojAssemblyReference.cache
+D:\source\repos\Calculator\Security\obj\Release\Security.csproj.CoreCompileInputs.cache
+D:\source\repos\Calculator\Security\obj\Release\Security.dll
+D:\source\repos\Calculator\Security\obj\Release\Security.pdb

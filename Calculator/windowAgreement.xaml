@@ -1,0 +1,14 @@
+﻿<Window x:Name="wndwAgreement" x:Class="Calculator.windowAgreement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Height="125" Width="355" ResizeMode="NoResize" Background="#FFE5E5E5" WindowStartupLocation="Manual" WindowStyle="None" Loaded="wndwAgreement_Loaded" >
+    <Border x:Name="brdBorder" BorderBrush="#FFFFFFFF" BorderThickness="3">
+        <Grid x:Name="grdMain">
+            <TextBlock x:Name="txtblckRules" Margin="20,20,20,20"/>
+        </Grid>
+    </Border>
+</Window>

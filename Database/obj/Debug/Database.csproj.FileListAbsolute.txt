@@ -1,0 +1,16 @@
+D:\source\repos\Calculator\Database\bin\Debug\Database.dll.config
+D:\source\repos\Calculator\Database\bin\Debug\Database.dll
+D:\source\repos\Calculator\Database\bin\Debug\Database.pdb
+D:\source\repos\Calculator\Database\bin\Debug\EntityFramework.dll
+D:\source\repos\Calculator\Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\repos\Calculator\Database\bin\Debug\System.Data.SQLite.dll
+D:\source\repos\Calculator\Database\bin\Debug\System.Data.SQLite.EF6.dll
+D:\source\repos\Calculator\Database\bin\Debug\System.Data.SQLite.Linq.dll
+D:\source\repos\Calculator\Database\bin\Debug\EntityFramework.xml
+D:\source\repos\Calculator\Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\repos\Calculator\Database\bin\Debug\System.Data.SQLite.xml
+D:\source\repos\Calculator\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\source\repos\Calculator\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\source\repos\Calculator\Database\obj\Debug\Database.csproj.CopyComplete
+D:\source\repos\Calculator\Database\obj\Debug\Database.dll
+D:\source\repos\Calculator\Database\obj\Debug\Database.pdb
